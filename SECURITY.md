@@ -1,29 +1,21 @@
-#PARTZKOH
-
-
-# Security MEMO
+# Security Policy
 
 ## Supported Versions
+| Version | Supported           |
+| ------- | ------------------- |
+| 1.x     | Next 6 months       |
+| 2.x     | Current and next 6 months |
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Vulnerability Reporting Procedure
+If you discover a security vulnerability within this project, please send an email to security@example.com. Your email should include:
+- A description of the vulnerability
+- Steps to reproduce
+- Any relevant information that can help us address the issue
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+We will respond to all security vulnerabilities within 48 hours.
 
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
-
-
-#COPYRIGHT DEC 27,2025 
-AD-PIT 03181981-PEV
-\PARTZKOH©®™ 🇵🇭🇵🇭🇵🇭 
+## Security Best Practices
+- Keep your dependencies up-to-date.
+- Regularly review and follow secure coding guidelines.
+- Conduct code reviews focusing on potential security weaknesses.
+- Engage in regular security assessments and penetration tests.
